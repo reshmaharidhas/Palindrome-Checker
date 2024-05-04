@@ -15,7 +15,7 @@ A desktop application to check if given input is palindrome or not.
 ## Development Tools
 - PyCharm
 - PyInstaller
-## Screenshot
+## Screenshots
 ![image](https://github.com/reshmaharidhas/Palindrome-Checker/assets/37250413/4ff689b9-8044-46ab-9eed-1614f55c2469)
 ![image](https://github.com/reshmaharidhas/Palindrome-Checker/assets/37250413/04b3eca1-2233-4476-9f47-3d863a04f360)
 
